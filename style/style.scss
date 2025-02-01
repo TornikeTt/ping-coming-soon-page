@@ -27,7 +27,8 @@ main {
     height: 100%;
 
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
 }
 
 header {
@@ -99,5 +100,15 @@ header {
             border: none;
             border-radius: 25px;
         }
+    }
+}
+
+.illustration-container {
+    margin-top: 67px;
+    width: 476px;
+
+    img {
+        width: 100%;
+        object-fit: cover;
     }
 }

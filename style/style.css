@@ -70,6 +70,10 @@ header form button {
   height: 42px;
   border: none;
   border-radius: 25px;
+  cursor: pointer;
+}
+header form button:active {
+  transform: translateY(2px);
 }
 
 .illustration-container {

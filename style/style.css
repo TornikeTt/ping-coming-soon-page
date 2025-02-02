@@ -98,4 +98,38 @@ header form .errorMessage {
   object-fit: cover;
 }
 
+footer {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+footer .social-links {
+  display: flex;
+  gap: 10px;
+}
+footer .social-links a {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 23px;
+  height: 23px;
+  border: 1px solid hsla(223, 100%, 88%, 0.2);
+  border-radius: 100%;
+  text-decoration: none;
+  color: hsl(223, 87%, 63%);
+  font-size: 12px;
+}
+footer .social-links a:hover {
+  background-color: hsl(223, 87%, 63%);
+  color: white;
+}
+footer .copyright {
+  font-family: "Libre Franklin", serif;
+  margin-top: 20px;
+  font-size: 9px;
+  color: hsl(0, 0%, 59%);
+  opacity: 0.7;
+}
+
 /*# sourceMappingURL=style.css.map */

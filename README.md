@@ -10,10 +10,10 @@ This project is a **responsive static web page** built using:
 
 ## **Features**
 
-✔ **Fully responsive design** optimized for **mobile (375px) and desktop (1440px)**
-✔ **Email validation** to prevent empty or incorrectly formatted inputs
-✔ **User-friendly feedback** with error messages for invalid emails
-✔ **Success notification** when the email is correctly entered
+-   ✔ **Fully responsive design** optimized for **mobile (375px) and desktop (1440px)**
+-   ✔ **Email validation** to prevent empty or incorrectly formatted inputs
+-   ✔ **User-friendly feedback** with error messages for invalid emails
+-   ✔ **Success notification** when the email is correctly entered
 
 ## 📸 Preview
 

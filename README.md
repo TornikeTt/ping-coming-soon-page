@@ -8,18 +8,12 @@ This project is a **responsive static web page** built using:
 -   **Regex for email validation**
 -   **Modern CSS techniques for responsiveness**
 
-The page ensures a smooth user experience across different screen sizes while implementing a **form validation system** that checks:
-
-✅ If the email field is **not empty**  
-✅ If the input **resembles a valid email format**  
-✅ If the email **passes validation**, a **success message** is displayed in an alert
-
 ## **Features**
 
--   **Fully responsive design** optimized for **mobile (375px) and desktop (1440px)**
--   **Email validation** to prevent empty or incorrectly formatted inputs
--   **User-friendly feedback** with error messages for invalid emails
--   **Success notification** when the email is correctly entered
+✔ **Fully responsive design** optimized for **mobile (375px) and desktop (1440px)**
+✔ **Email validation** to prevent empty or incorrectly formatted inputs
+✔ **User-friendly feedback** with error messages for invalid emails
+✔ **Success notification** when the email is correctly entered
 
 ## 📸 Preview
 

@@ -177,3 +177,32 @@ footer {
         opacity: 0.7;
     }
 }
+
+@media (max-height: 645px) {
+    header {
+        margin-top: 35px;
+
+        h1 {
+            margin-top: 16px;
+        }
+
+        form {
+            margin-top: 20px;
+            .errorMessage {
+                top: 37px;
+            }
+        }
+    }
+
+    .illustration-container {
+        margin-top: 36px;
+    }
+
+    footer {
+        margin-top: 20px;
+
+        .copyright {
+            margin-top: 10px;
+        }
+    }
+}
